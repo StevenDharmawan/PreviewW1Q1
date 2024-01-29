@@ -14,6 +14,14 @@ header nav a {
     margin: 2%;
 }
 
+section div {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    margin: 1%;
+    gap: 2%;
+}
+
 section div img {
     border-radius: 50%;
     width: 20%;
