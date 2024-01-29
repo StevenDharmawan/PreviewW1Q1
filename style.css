@@ -1,0 +1,54 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    background-color: black;
+    padding: 10px;
+}
+
+header nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 2%;
+}
+
+section div {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    margin: 1%;
+    gap: 2%;
+}
+
+section div img {
+    border-radius: 50%;
+    width: 20%;
+    box-shadow: 2px 2px 5px 0px rgba(0, 0, 0, 1);
+    margin: 1%;
+}
+
+section article {
+    margin:2% 1% 1% 25%;
+    padding: 2% .5%;
+    border: .5px solid grey;
+}
+
+footer {
+    margin: 1%;
+}
+
+footer p {
+    margin-bottom: 2%;
+}
+
+footer a {
+    text-decoration: none;
+}
+
+.border {
+    border-right: .5px solid black;
+    padding: 1%;
+    margin-top: 3%;
+}
