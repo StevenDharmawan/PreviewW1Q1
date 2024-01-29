@@ -34,3 +34,21 @@ section article {
     padding: 2% .5%;
     border: .5px solid grey;
 }
+
+footer {
+    margin: 1%;
+}
+
+footer p {
+    margin-bottom: 2%;
+}
+
+footer a {
+    text-decoration: none;
+}
+
+.border {
+    border-right: .5px solid black;
+    padding: 1%;
+    margin-top: 3%;
+}
