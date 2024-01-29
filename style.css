@@ -28,3 +28,9 @@ section div img {
     box-shadow: 2px 2px 5px 0px rgba(0, 0, 0, 1);
     margin: 1%;
 }
+
+section article {
+    margin:2% 1% 1% 25%;
+    padding: 2% .5%;
+    border: .5px solid grey;
+}
